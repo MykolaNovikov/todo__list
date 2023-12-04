@@ -26,7 +26,7 @@ This project represents a web application for managing a todo list. Users can ad
 1. Download or clone the repository.
 2. Install dependencies using `npm install`.
 3. Run the application with `npm start`.
-4. The app will be accessible at [http://localhost:3000](http://localhost:3000).
+4. The app will be accessible locally.
 
 ## Dependencies
 
